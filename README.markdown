@@ -9,7 +9,6 @@ The adaptation is based on this [post][original_post_url] by ShortcutTO701
 Usage example
 -------------
 You can use the plugin as always, however if you want to display "iframed" content you should add a "rev" attribute to the link as follows:
-
 <pre>
   <code>
 	<a href="contactform.aspx" rel="[facebox]" rev="iframe|350">Contact us</a>
@@ -17,4 +16,3 @@ You can use the plugin as always, however if you want to display "iframed" conte
 </pre>
 
 The "rev" attribute has two options splitted up by a pipe (|). In the above example, the "350" is the "height" of the iFrame.
-
