@@ -1,10 +1,8 @@
 Facebox with iFrame support
 ===========================
-This is just an adaptation of the original [Facebox][facebox_url] plugin to add iFrame support.
-[facebox_url]:(http://defunkt.io/facebox/)
+This is just an adaptation of the original [Facebox](http://defunkt.io/facebox/) plugin to add iFrame support.
 
-The adaptation is based on this [post][original_post_url] by ShortcutTO701
-[original_post_url]:(http://lnx.shortcutto701.com/2010/05/21/using-iframe-with-facebox-jquery-plugin/)
+The adaptation is based on this [post](http://lnx.shortcutto701.com/2010/05/21/using-iframe-with-facebox-jquery-plugin/) by ShortcutTO701
 
 Usage example
 -------------
